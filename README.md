@@ -37,7 +37,8 @@ creds = ServiceAccountCredentials.from_json_keyfile_name("your_credentials.json"
 sheet = client.open_by_key("your_google_sheet_id").sheet1
 
 **Usage Instructions**
- Launch the notebook or Python script.
+
+Launch the notebook or Python script.
 
 It will:
 
