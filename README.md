@@ -20,6 +20,7 @@ Includes a custom tool to view or summarize the dataset
 Create a .env file in the root directory and add your Gemini API key:
 
 GOOGLE_API_KEY=your_google_gemini_api_key_here
+
 2. Install Required Dependencies
 
 Run this command:
