@@ -13,7 +13,6 @@ AI Agent for Data Analysis is an intelligent assistant powered by Google's Gemin
 
 5.	Allows users to query, summarize, and filter data using natural language
 
-6.	Includes a custom tool to view or summarize the dataset
 
 
 **How It Works**
