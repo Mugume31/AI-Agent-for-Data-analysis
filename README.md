@@ -3,17 +3,18 @@ AI Agent for Data Analysis is an intelligent assistant powered by Google's Gemin
 
 **Features**
 
-Connects to a Google Sheet via gspread
+1.	Connects to a Google Sheet via gspread
 
-Loads and converts Google Sheet data into a Pandas DataFrame
+2.	Loads and converts Google Sheet data into a Pandas DataFrame
 
-Uses Gemini 2.0 Flash via langchain_google_genai as the LLM
+3.	Uses Gemini 2.0 Flash via langchain_google_genai as the LLM
 
-Implements a LangChain Pandas Agent for interacting with the data
+4.	Implements a LangChain Pandas Agent for interacting with the data
 
-Allows users to query, summarize, and filter data using natural language
+5.	Allows users to query, summarize, and filter data using natural language
 
-Includes a custom tool to view or summarize the dataset
+6.	Includes a custom tool to view or summarize the dataset
+
 
 **How It Works**
 1. Set Up Environment Variables
